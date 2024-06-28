@@ -1,0 +1,11 @@
+#things that do not need further commit or changes
+#things that need to be protected are kept in this file.
+#things you don't want another person to download and copy.
+#1.Passwords
+#2.API keys
+#2.DS_Store
+#write all file names here that are to be ignored. 
+# *.txt = ignores all files with txt extension
+# *.log = ignores all files with log extension
+#As here we want only secrets.txt to be ignored ,we write only secrets.txt
+secrets.txt
