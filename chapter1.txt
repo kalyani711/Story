@@ -1,1 +1,2 @@
  it is created to learn git and version control.
+ pushing it after making its repository
